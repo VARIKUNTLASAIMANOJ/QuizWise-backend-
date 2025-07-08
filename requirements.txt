@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pytesseract
+PyMuPDF
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-generativeai
